@@ -2,7 +2,8 @@
 
 Добро пожаловать в репозиторий проекта по предсказанию цен акций с использованием моделей машинного обучения (LSTM) для развивающихся экономик, с особым акцентом на Узбекистан.
 
-![Accuracy Results](![newplot](https://github.com/user-attachments/assets/86486826-81f7-402a-b3d2-b498c1f18f9c))
+![Accuracy Results]
+![newplot](https://github.com/user-attachments/assets/86486826-81f7-402a-b3d2-b498c1f18f9c)
 
 ## Обзор
 
